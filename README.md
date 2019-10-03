@@ -1,0 +1,2 @@
+# Coding-Test-C-
+The maximum distance for a pair of any two letters in some array a is defined as the largest difference between any a[i] and a[j] where i &lt; j and a[i] comes before a[j] in the alphabet. Created a function in C# named MaxDistance (which takes array a as a parameter) that calculates and returns the largest distance between two letters in the array.  Sample Input = [ g, b, c, j, b, d, h, a ]  Sample Output = 7  Explanation: There are 7 letters between ‘b’ and ‘j’ AND ‘b’ comes before ‘j’ alphabetically AND index of ‘j’ > index of ‘b’
